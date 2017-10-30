@@ -1,5 +1,5 @@
 **Qty**|**Value**|**Device**|**Reference Designators (keypad)**|**Reference Designators (display)**|**Digikey part number**|**Other source**|**Notes**
-:-----|:-----|:-----|:-----:|:-----|:-----|:-----|:-----
+:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----
 1| |FE09-2W| |SV1|S5562-ND| | 
 1| |JST\_2PIN-THM| |BATT1|455-1704-ND| |Only needed if you're using a LiPo battery
 2|2.0K|R-US\_0207| |R9, R12|2.0KQBK-ND| | 

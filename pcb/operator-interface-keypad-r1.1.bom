@@ -1,0 +1,11 @@
+Partlist exported from C:/Projects/Robot Missions/OperatorElectronics/pcb/operator-interface-keypad-r1.1.sch at 10/30/2017 3:23:17 PM
+
+Qty Value         Device        Parts                             
+6                 40-XX         S1, S2, S3, S4, S5, S6            
+6                 LED5MM        LED1, LED2, LED3, LED4, LED5, LED6
+1                 MA09-2W       SV1                               
+2   10K           R-US_0207/10  R12, R13                          
+6   330           R-US_0207/10  R1, R2, R3, R4, R5, R6            
+1   EG1313        EG1313        S8                                
+1   JOYSTICKPTH   JOYSTICKPTH   U2                                
+4   MOUNT-HOLE3.2 MOUNT-HOLE3.2 H5, H6, H7, H8                    

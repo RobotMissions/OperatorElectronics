@@ -21,8 +21,7 @@
 2|10-pin socket 2mm header| | | |1528-1392-ND|[Adafruit link](https://www.adafruit.com/product/366)|For Xbee. Come as a pair - only order one pair!
 1|2.4 GHz antenna| | | |A24-HASM-450-ND|[Adafruit link](https://www.adafruit.com/product/944)|For Xbee. Only needed if using the RP-SMA Xbee
 6| |40-XX|S1, S2, S3, S4, S5, S6| |SW412-ND| | 
-8|Green|LED5MM|LED1, LED2, LED3, LED4, LED5, LED6|LED8, LED10|C503B-GAN-CC0D0891-ND| | 
-2|Red|LED5MM| |LED7, LED9|C503B-RCN-CX0Y0AA1-ND| | 
+10|Cool White|LED5MM|LED1, LED2, LED3, LED4, LED5, LED6|LED7, LED8, LED9, LED10|C503C-WAN-CBBDB231-ND| |Alternative: C503C-ACN-CYCZA342CT-ND (Amber)
 1| |MA09-2W|SV1| |S2112EC-09-ND| | 
 2|10K|R-US\_0207/10|R12, R13| |10KQBK-ND| | 
 11|330|R-US\_0207/10|R1, R2, R3, R4, R5, R6|R7, R8, R10, R11, R13|330QBK-ND| | 

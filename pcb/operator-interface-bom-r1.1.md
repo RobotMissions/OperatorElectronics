@@ -22,7 +22,7 @@
 1|2.4 GHz antenna| | | |A24-HASM-450-ND|[Adafruit link](https://www.adafruit.com/product/944)|For Xbee. Only needed if using the RP-SMA Xbee
 6| |40-XX|S1, S2, S3, S4, S5, S6| |SW412-ND| | 
 6|Cool White|LED5MM|LED1, LED2, LED3, LED4, LED5, LED6| |C503C-WAN-CBBDB231-ND| |Alternative: C503C-ACN-CYCZA342CT-ND (Amber)
-2Green|LED5MM| |LED8, LED10|C503B-GAN-CC0D0891-ND| |
+2|Green|LED5MM| |LED8, LED10|C503B-GAN-CC0D0891-ND| |
 2|Red|LED5MM| |LED7, LED9|C503B-RCN-CX0Y0AA1-ND| |
 1| |MA09-2W|SV1| |S2112EC-09-ND| | 
 2|10K|R-US\_0207/10|R12, R13| |10KQBK-ND| | 
